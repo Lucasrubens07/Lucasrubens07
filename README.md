@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Lucas Rubens
+# 👨👨🏻‍💻 Lucas Rubens
 
 **`Desenvolvedora FullStack`**
 
