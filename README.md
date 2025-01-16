@@ -2,18 +2,16 @@
 
 **`Desenvolvedor FullStack`**
 
-Tenho 17 anos e uma paixão por tecnologia que vem de família! Concluí o ensino médio recentemente, mas minha trajetória é marcada por um grande diferencial: iniciei o curso superior em Análise e Desenvolvimento de Sistemas enquanto ainda estava no ensino médio. Essa experiência antecipada e desafiadora me permitiu aliar teoria e prática desde cedo, desenvolvendo habilidades técnicas sólidas em PHP, Laravel, Node.js, AngularJS e MySQL.
+Me chamo Lucas Rubens e sou um desenvolvedor de 17 anos com uma grande paixão por tecnologia, que está na minha vida desde cedo, influenciado pela minha família. Recentemente, concluí o ensino médio, mas meu percurso é um pouco diferente: iniciei o curso superior em Análise e Desenvolvimento de Sistemas ainda durante o ensino médio. Isso me permitiu integrar teoria e prática de forma acelerada, criando uma base técnica sólida em tecnologias como PHP, Laravel, Node.js, AngularJS e MySQL.
 
-Sempre busquei aproveitar ao máximo cada oportunidade para aprender e crescer na área de tecnologia. Essa trajetória acelerada me ensinou a enfrentar desafios com determinação e curiosidade, consolidando minha base técnica e fortalecendo minhas habilidades de resolução de problemas e trabalho em equipe.
-
-Estou em busca de oportunidades onde possa aplicar esse aprendizado, colaborar em projetos desafiadores e continuar evoluindo como profissional. Acredito que minha dedicação e vontade de aprender podem contribuir para a criação de soluções inovadoras e impactantes.
+Minha trajetória é marcada pela busca constante de aprendizado e evolução. Essa jornada antecipada me ensinou a enfrentar desafios com determinação e curiosidade , além de me proporcionar experiências valiosas com resolução de problemas.
 
 <p align="left">
     <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
         <img 
             alt="youtube subscribers" 
             title="Inscreva-se no meu canal" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
+            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630](https://custom-icon-badges.demolab.com/badge/Mail-E61B23.svg?logo=mail"
         />
     </a>
     <a href="https://www.youtube.com/@larissakich">
