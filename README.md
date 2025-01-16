@@ -7,10 +7,10 @@ Me chamo Lucas Rubens e sou um desenvolvedor de 17 anos com uma grande paixão p
 Minha trajetória é marcada pela busca constante de aprendizado e evolução. Essa jornada antecipada me ensinou a enfrentar desafios com determinação e curiosidade , além de me proporcionar experiências valiosas com resolução de problemas.
 
 <p align="left">
-    <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
+    <a href="lucas.rubens07@hotmail.com">
         <img 
-            alt="youtube subscribers" 
-            title="Inscreva-se no meu canal" 
+            alt="Email Lucas Rubens" 
+            title="Email" 
             src="https://custom-icon-badges.demolab.com/badge/Mail-E61B23.svg?logo=mail"
         />
     </a>
