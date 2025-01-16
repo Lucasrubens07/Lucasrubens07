@@ -6,37 +6,6 @@ Me chamo Lucas Rubens e sou um desenvolvedor de 17 anos com uma grande paixão p
 
 Minha trajetória é marcada pela busca constante de aprendizado e evolução. Essa jornada antecipada me ensinou a enfrentar desafios com determinação e curiosidade , além de me proporcionar experiências valiosas com resolução de problemas.
 
-<p align="left">
-    <a href="lucas.rubens07@hotmail.com">
-        <img 
-            alt="Email Lucas Rubens" 
-            title="Email" 
-            src="https://custom-icon-badges.demolab.com/badge/Mail-E61B23.svg?logo=mail"
-        />
-    </a>
-    <a href="https://www.youtube.com/@larissakich">
-        <img 
-            alt="youtube views" 
-            title="Vizualizações no YouTube" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"
-        />
-    </a> 
-    <a href="https://github.com/LucasRubens07?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/Lucasrubens07?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/Lucasrubens07?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Lucasrubens07?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-</p>
-
 ---
 
 ### 🤖 Linguagens e Tecnologias
