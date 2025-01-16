@@ -1,8 +1,12 @@
 # 👨🏻‍💻 Lucas Rubens
 
-**`Desenvolvedora FullStack`**
+**`Desenvolvedor FullStack`**
 
-Me chamo Larissa Vitória Kich, tenho 20 anos e sou natural do Rio Grande do Sul. Concluí o ensino médio no IFRS, com o curso técnico em informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na PUCRS. Sou apaixonada por tecnologia e compartilho meu conhecimento através do meu canal no YouTube "[Larissa Kich](https://www.youtube.com/@larissakich)", onde ensino a criar projetos web, e também através do Instagram, com o perfil chamado "[Dev em Dev](https://www.instagram.com/dev_em_dev/)".
+Tenho 17 anos e uma paixão por tecnologia que vem de família! Concluí o ensino médio recentemente, mas minha trajetória é marcada por um grande diferencial: iniciei o curso superior em Análise e Desenvolvimento de Sistemas enquanto ainda estava no ensino médio. Essa experiência antecipada e desafiadora me permitiu aliar teoria e prática desde cedo, desenvolvendo habilidades técnicas sólidas em PHP, Laravel, Node.js, AngularJS e MySQL.
+
+Sempre busquei aproveitar ao máximo cada oportunidade para aprender e crescer na área de tecnologia. Essa trajetória acelerada me ensinou a enfrentar desafios com determinação e curiosidade, consolidando minha base técnica e fortalecendo minhas habilidades de resolução de problemas e trabalho em equipe.
+
+Estou em busca de oportunidades onde possa aplicar esse aprendizado, colaborar em projetos desafiadores e continuar evoluindo como profissional. Acredito que minha dedicação e vontade de aprender podem contribuir para a criação de soluções inovadoras e impactantes.
 
 <p align="left">
     <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
