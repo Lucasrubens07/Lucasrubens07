@@ -100,7 +100,7 @@ Minha trajetória é marcada pela busca constante de aprendizado e evolução. E
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasrubens07&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
   />
 
 </p>
