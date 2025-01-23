@@ -109,7 +109,7 @@ I’m constantly seeking to learn and grow. This accelerated journey has taught 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasrubens07&theme=dark&layout=compact&custom_title=Tecnologias" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasrubens07&theme=tokyonight&layout=compact&custom_title=Tecnologias" 
   />
 
 </p>
